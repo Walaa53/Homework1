@@ -1,11 +1,11 @@
 ---
 title: "Homework #1 -- Pet Names Dataset"
-author: "Walaa Ali"
-date: "`13/2/2021`"
+author: "Walaa  Ali"
+date: "`13/2/2021 `"
 output: github_document
 ---
 
-**Student ID:2201002583**
+**Student ID: 2201002583**
 
 **Deadline:** 23:59 on Saturday, 13 February 2021
 
@@ -24,7 +24,7 @@ library(ggrepel)
 
 ##Exercises
 
-`1. 52519
+`1.  52519
 
 (4 points)
 ```{r}
