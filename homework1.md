@@ -1,10 +1,9 @@
 Homework \#1 – Pet Names Dataset
 ================
-Musab Isah
+Walaa Ali
+`13/2/2021`
 
-2021-02-13
-
-**Student ID:insert ID here**
+**Student ID: 2201002583**
 
 **Deadline:** 23:59 on Saturday, 13 February 2021
 
@@ -20,7 +19,7 @@ library(ggrepel)
 
 \#\#Exercises
 
-\`1.
+\`1. 52519 the number of varibales ( 7 )
 
 (4 points)
 
