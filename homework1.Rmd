@@ -24,8 +24,8 @@ library(ggrepel)
 
 ##Exercises
 
-`1.  52519
-    the number of varibales ( 7 )
+`1.  
+    
 
 (4 points)
 ```{r}
@@ -33,7 +33,7 @@ seattlepets %>%
 count(animal_name, sort = TRUE)
 ```
 Write your narrative here
-
+52519
 
 
 `2.
@@ -44,7 +44,7 @@ Write your narrative here
 
 ```
 Write your narrative below
-
+the number of varibales ( 7 )
 
 `3. Copy the code provided in the homework documentation and paste it here. 
 
