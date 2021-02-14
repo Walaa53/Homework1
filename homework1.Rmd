@@ -29,7 +29,8 @@ library(ggrepel)
 
 (4 points)
 ```{r}
-
+seattlepets %>%
+count(animal_name, sort = TRUE)
 ```
 Write your narrative here
 
